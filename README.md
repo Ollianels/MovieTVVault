@@ -19,7 +19,7 @@ For ease of reading, I have used badges throughout this document to give indicat
 </p>
 
 ## Table of Contents
-1. [Military](link)
+1. [Military](https://github.com/Ollianels/MovieTVVault/blob/main/README.md#military)
 2. Yet to come
 <br>
 <hr>
