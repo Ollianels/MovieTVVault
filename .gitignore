@@ -1,0 +1,15 @@
+# vscode specific files
+.vscode/
+
+# project files
+*.json
+*.txt
+data/
+
+# python specific files
+*.py[cod]
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.py
