@@ -4,7 +4,10 @@
 # project files
 *.json
 *.txt
-data/
+*.html
+data*/
+driver/
+bin/
 
 # python specific files
 *.py[cod]
